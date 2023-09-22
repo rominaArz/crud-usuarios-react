@@ -1,0 +1,32 @@
+.formu_one {
+    margin-top: 10px;
+}
+
+.formu_two{
+    margin-top: 5px;
+
+}
+
+.formu_three{
+    margin-top: 5px;
+
+}
+
+.formu_four{
+    margin-top: 5px;
+
+}
+
+.formu_five{
+    margin-top: 5px;
+
+}
+
+input{
+    background-color: rgba(127, 255, 212, 0.274);
+    margin-left: 5px;
+}
+
+.bx {
+    background-color: rgba(141, 141, 141, 0);
+}

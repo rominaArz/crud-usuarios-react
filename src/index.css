@@ -1,0 +1,41 @@
+*{
+    font-family: 'Carter One', cursive;
+font-family: 'Faustina', serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Ma Shan Zheng', cursive;
+font-family: 'Monsieur La Doulaise', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Unbounded', sans-serif;
+background-color: rgb(255, 242, 226);
+}
+
+
+
+.articulo, h3, ul, li, span{
+    background-color: rgb(255, 255, 255);
+  
+}
+
+.delete {
+    background-color: rgba(213, 0, 0, 0.927);
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+   
+}
+
+.edit {
+    background-color: rgb(105, 190, 255);
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+.formu_six {
+background-color: blue;
+font-size: 20px;
+border-radius: 20px;
+margin-top: 5px ;
+margin-left: 30px;
+}
+
